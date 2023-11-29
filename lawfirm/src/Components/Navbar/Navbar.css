@@ -1,0 +1,16 @@
+.Nav-container {
+    display: flex;
+   
+    justify-content:space-between;
+}
+
+ul > li {
+    list-style-type: none;
+    
+}
+.Nav-button {
+    width: 172px;
+    height: 46px;
+    background-color: black;
+    border:none;
+}

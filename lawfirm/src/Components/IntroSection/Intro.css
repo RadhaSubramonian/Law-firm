@@ -1,0 +1,23 @@
+.Intro-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 120px;
+    margin:100px; 
+}
+
+.Intro {
+    color:white;
+    font-size: 24px;
+    
+
+}
+.Intro-crim {
+    color:white;
+    margin-Top:5px;
+    border-left: 1px solid gray;  
+    padding-left:140px;
+}
+.para {
+    color:rgb(105,105,105);
+}

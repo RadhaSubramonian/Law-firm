@@ -1,0 +1,19 @@
+.inputhero {
+    background-color:rgb(105,105,105);
+    padding-left: '10px';
+    color:white;
+    border-radius: 43px;
+    padding-left: 100px;
+    border:none;
+}
+::placeholder {
+    color: gray;
+}
+.boxInput {
+    
+    background-color:rgb(105,105,105);
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 43px;
+}

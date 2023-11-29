@@ -1,0 +1,9 @@
+.btn-card {
+  color:'black';
+  background-color: '#E3B748';
+}
+
+.card-cont {
+    display: flex;
+    justify-content:space-between ;
+}
